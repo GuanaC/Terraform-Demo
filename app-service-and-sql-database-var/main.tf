@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "RG-Terraform" {
-  name     = "terraform-resource-group"
+  name     = "deleted"
   location = "West Europe"
 }
 
